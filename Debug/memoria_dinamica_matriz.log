@@ -1,0 +1,3 @@
+﻿  practica9_memdim.cpp
+C:\Users\lipsh\OneDrive\Desktop\C++\memoria_dinamica_matriz\practica9_memdim.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  memoria_dinamica_matriz.vcxproj -> C:\Users\lipsh\OneDrive\Desktop\C++\memoria_dinamica_matriz\Debug\memoria_dinamica_matriz.exe
